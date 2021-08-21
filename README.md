@@ -1,5 +1,5 @@
 # Ant-Simulator-V1.0
-Ant simulator that has colony of ants that work together to find food in similiar ant pheromone style.
+Ant simulator that has colony of ants that work together to find food in similiar ant pheromone style in Unity.
 
 Currently has colony which will create a large amount of ants (size can be specified as well as the rate of spawning them and the duration to spawn them over).
 
